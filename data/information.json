@@ -1,0 +1,29 @@
+{ 
+	"info" : [
+    {
+        "name": "sheldon cooper",
+        "postition": "junior developer",
+        "email": "sheldoncooper@gmail.com"
+    },
+    {
+        "name": "Leonard Hofstader",
+        "postition": "bug hunter",
+        "email": "leonardhofstader@gmail.com"
+    },
+    {
+        "name": "Raj Koothrappali",
+        "postition": "senior developer",
+        "email": "rajkoothrappali@gmail.com"
+    },
+    {
+        "name": "Howard Wolowitz",
+        "postition": "project manager",
+        "email": "howardwolowitz@gmail.com"
+    },
+    {
+        "name": "Penny",
+        "postition": "front end developer",
+        "email":"penny36@gmail.com"
+    }
+  ]
+}
